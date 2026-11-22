@@ -1,0 +1,6 @@
+"date","merchant_id","product_category","merchant_tier","transaction_volume","risk_score","is_anomaly","transaction_date"
+"01-01-2025 00:00","MCH_4114","Grocery","Gold",23298.93246,55.85381175,0,"01-01-2025"
+"01-01-2025 01:00","MCH_5153","Entertainment","Standard",2831.434171,57.18021525,0,"01-01-2025"
+"01-01-2025 02:00","MCH_5308","Retail","Gold",164.2730905,69.2202333,0,"01-01-2025"
+"01-01-2025 03:00","MCH_1007","Entertainment","Gold",1800.812112,58.86998267,0,"01-01-2025"
+"01-01-2025 04:00","MCH_5954","Entertainment","Gold",5260.376622,34.0580914,0,"01-01-2025"
