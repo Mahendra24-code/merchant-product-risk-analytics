@@ -1,5 +1,9 @@
 # 🛡️ Risk-Adjusted Product Performance & Transaction Anomaly Detection Framework
 
+> ⚠️ **Disclaimer:** *This project utilizes synthetically generated data for educational and portfolio demonstration purposes. It is designed to simulate enterprise Fintech and Payments analytics environments and is not affiliated with any specific financial institution.*
+
+---
+
 > **An end-to-end analytics pipeline simulating an Enterprise Fintech & Global Payments Network, designed to monitor merchant transaction volumes, detect emerging risks, and deliver decision-ready insights.**
 
 ---
@@ -64,4 +68,8 @@ As global merchant and payment networks scale, manual monitoring of transaction 
 │   └── Risk_Analytics_Model.xlsx       # Baseline KPI profiling and threshold logic
 ├── powerbi/
 │   └── High_Risk_Merchant_Critical_Exposure.pbix # Interactive executive dashboard
+|
+├── visuals/                              <-- (Folder for images/PDFs for GitHub)
+|   ├── executive_dashboard.png           <-- (Screenshot of your Power BI dashboard)
+|   └── shap_anomaly_drivers.png          <-- (Screenshot of the SHAP plot from Python)
 └── README.md                               # Project documentation (This file)
