@@ -61,7 +61,7 @@ As global merchant and payment networks scale, manual monitoring of transaction 
 │   ├── data_generation.py                  # Script to generate synthetic data with injected anomalies
 │   └── anomaly_detection.py                # Isolation Forest model & SHAP root-cause analysis
 ├── excel/
-│   └── Product_Risk_Analytics_Model.xlsx       # Baseline KPI profiling and threshold logic
+│   └── Risk_Analytics_Model.xlsx       # Baseline KPI profiling and threshold logic
 ├── powerbi/
 │   └── High_Risk_Merchant_Critical_Exposure.pbix # Interactive executive dashboard
 └── README.md                               # Project documentation (This file)
