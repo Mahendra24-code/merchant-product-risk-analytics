@@ -1,7 +1,4 @@
-# 🛡️ Risk-Adjusted Product Performance & Transaction Anomaly Detection Framework
-
-
----
+# 🛡️ Global Merchant Transaction Risk & Anomaly Analytics
 
 > **An end-to-end analytics pipeline simulating an Enterprise Fintech & Global Payments Network, designed to monitor merchant transaction volumes, detect emerging risks, and deliver decision-ready insights.**
 
