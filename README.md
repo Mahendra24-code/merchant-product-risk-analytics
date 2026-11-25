@@ -1,6 +1,5 @@
 # 🛡️ Risk-Adjusted Product Performance & Transaction Anomaly Detection Framework
 
-> ⚠️ **Disclaimer:** *This project utilizes synthetically generated data for educational and portfolio demonstration purposes. It is designed to simulate enterprise Fintech and Payments analytics environments and is not affiliated with any specific financial institution.*
 
 ---
 
@@ -54,6 +53,11 @@ As global merchant and payment networks scale, manual monitoring of transaction 
 4. **Dashboard:** Open the provided `powerbi/High_Risk_Merchant_Critical_Exposure.pbix` file and connect it to the final dataset to interact with the live metrics.
 
 ---
+---
+
+> *⚠️ **Disclaimer:** This project utilizes synthetically generated data for educational and portfolio demonstration purposes. It is designed to simulate enterprise Fintech and Payments analytics environments and is not affiliated with any specific financial institution.*
+
+---
 
 ## 📂 Repository Structure
 ```text
@@ -65,11 +69,11 @@ As global merchant and payment networks scale, manual monitoring of transaction 
 │   ├── data_generation.py                  # Script to generate synthetic data with injected anomalies
 │   └── anomaly_detection.py                # Isolation Forest model & SHAP root-cause analysis
 ├── excel/
-│   └── Risk_Analytics_Model.xlsx       # Baseline KPI profiling and threshold logic
+│   └── Risk_Analytics_Model.xlsx           # Baseline KPI profiling and threshold logic
 ├── powerbi/
 │   └── High_Risk_Merchant_Critical_Exposure.pbix # Interactive executive dashboard
-|
-├── visuals/                              <-- (Folder for images/PDFs for GitHub)
-|   ├── executive_dashboard.png           <-- (Screenshot of your Power BI dashboard)
-|   └── shap_anomaly_drivers.png          <-- (Screenshot of the SHAP plot from Python)
-└── README.md                               # Project documentation (This file)
+├── visuals/
+│   ├── executive_dashboard.png             # Screenshot of the Power BI dashboard
+│   └── shap_anomaly_drivers.png            # Screenshot of the SHAP plot from Python
+└── README.md                               # Project documentation (This file).
+
